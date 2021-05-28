@@ -24,6 +24,7 @@ iris = sns.load_dataset('iris')
 sns.pairplot(iris)
 plt.show()
 
+
 # *-------------------------------------------------*
 # Scatter plots & Hexbin plots
 m ,x = [0 , 1],[(1, .5) ,(.5 ,1)]
